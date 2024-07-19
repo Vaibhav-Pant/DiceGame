@@ -3,7 +3,7 @@ import styled from "styled-components"
 function startGame({toggle}) {
     return (
         <Container>
-            <img src="./images/dices1.png" alt="main_img" />
+            <img src="./public/images/dices1.png" alt="main_img" />
             <div className="box">
                 <h1>DICE GAME</h1>
                 <div>
