@@ -1,8 +1,13 @@
-# React + Vite
+# Dice Game using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a single player game made using react js.
 
-Currently, two official plugins are available:
+### How to play :
+Player first have to choose a number from dice.
+After choosing number, drop the dice.
+If the number on dice and the number choosen by number matches then user receives that much points.
+If it doesn't match, then it will reduce 2 points.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![homepage](https://github.com/user-attachments/assets/1425d069-73f3-4a6d-acce-12cdba7d55c3)
+
+![gamepage](https://github.com/user-attachments/assets/806af70b-7362-421b-a90b-1614a9951ad3)
