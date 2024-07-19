@@ -7,7 +7,7 @@ function diceRoll(props) {
             <FRAME>
                 <div className="first">
                     <button onClick={props.RollDice}>
-                        <img src={`/images/dice_${props.currentDice}.png`} alt="dice" />
+                        <img src={`./images/dice_${props.currentDice}.png`} alt="dice" />
                     </button>
                     <div>Click on Dice to Roll</div>
                 </div>
